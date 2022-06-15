@@ -1,0 +1,6 @@
+- sobre mim
+- meu nome é vinicius
+- em ganhar dinheiro
+- eu estou aprendendo agora javascript e scratch
+- quero colaborar com programaçao
+- vinicius.m.m15
